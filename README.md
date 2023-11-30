@@ -1,7 +1,7 @@
 # Smart City Management System
 
 ## Overview
-Welcome to the **Tourist Guide** project, your passport to exploring new cities! This project is designed to enhance your travel experience with features that cater to your every need.
+Welcome to the **Smart City** project, your passport to exploring new cities! This project is designed to enhance your travel experience with features that cater to your every need.
 
 1. **Stay Informed**: Get the latest local news and updates about events.
 2. **Culinary Delights**: Discover nearby restaurants, their cuisines, and ratings.
