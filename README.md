@@ -1,4 +1,4 @@
-# Smart City Java Project
+# Smart City Management System
 
 ## Overview
 Welcome to the **Tourist Guide** project, your passport to exploring new cities! This project is designed to enhance your travel experience with features that cater to your every need.
