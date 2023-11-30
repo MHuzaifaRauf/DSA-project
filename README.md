@@ -9,7 +9,12 @@ Welcome to the **Tourist Guide** project, your passport to exploring new cities!
 4. **Cultural Quests**: Explore museums and delve into the city's rich history.
 
 ## Installation
-Embark on this journey by following these simple steps:
+
+Before embarking on your digital journey, ensure you have the Java JDK compiler installed on your system. If not, download and install it from
+ 
+[Java SE Downloads](https://www.oracle.com/java/technologies/javase-downloads.html). 
+
+Once equipped, follow the installation steps and let the exploration begin!:
 
 1. In order to run this project, open the `code` folder.
 2. Open the terminal in the `code` folder.
