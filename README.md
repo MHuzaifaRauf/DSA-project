@@ -47,4 +47,8 @@ I'm here to guide you through the coding adventures. Let's make this project ext
 
 ## Author
 
-Crafted by Huzaifa Rauf, bringing the allure of exploration to your coding endeavors! May the code be ever in your favor!
+Crafted by
+[Huzaifa Rauf](https://github.com/MHuzaifa-Rauf)
+[Abdul Rehman Khan](https://github.com/abdulrehmanuni)
+[Abdul Mateen](https://github.com/AbdulMateen), 
+bringing the allure of exploration to your coding endeavors! May the code be ever in your favor!
